@@ -1,0 +1,31 @@
+\contentsline {chapter}{\numberline {1}Acknowledgement}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Abstract}{3}{chapter.2}
+\contentsline {chapter}{\numberline {3}Introduction}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Existing System}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}User Requirement Analysis}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Feasibility Study}{5}{section.3.3}
+\contentsline {section}{\numberline {3.4}Types of Feasibility}{6}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Technical Feasibility}{6}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Economic Feasibility}{7}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Operational Feasibility}{8}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Technological Feasibility}{8}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Behavioral Feasibility}{8}{subsection.3.4.5}
+\contentsline {section}{\numberline {3.5}Objectives of Project}{9}{section.3.5}
+\contentsline {chapter}{\numberline {4}Project Design}{10}{chapter.4}
+\contentsline {section}{\numberline {4.1}Software Requirement Analysis}{10}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Functional Requirements}{10}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Non functional requirements}{11}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Flowchart}{11}{section.4.2}
+\contentsline {section}{\numberline {4.3}DFDs}{11}{section.4.3}
+\contentsline {chapter}{\numberline {5}Development and Implementation}{15}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction to Languages}{15}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}HTML}{15}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}CSS}{15}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}PHP}{16}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Introduction to CGS}{17}{section.5.2}
+\contentsline {section}{\numberline {5.3}Installation and Setup}{19}{section.5.3}
+\contentsline {chapter}{\numberline {6}Testing}{24}{chapter.6}
+\contentsline {chapter}{\numberline {7}Conclusion and Future Scope}{26}{chapter.7}
+\contentsline {section}{\numberline {7.1}Summary}{26}{section.7.1}
+\contentsline {section}{\numberline {7.2}Future Scope}{26}{section.7.2}
+\contentsfinish 
